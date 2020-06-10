@@ -1,7 +1,7 @@
 common file
 
-
+<<<<<<< HEAD
 feature 2 work done.
-
+=======
 i have worked on feature1
-
+>>>>>>> defb249... common file updated
